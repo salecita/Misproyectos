@@ -1,0 +1,113 @@
+body{
+    background-color: burlywood;
+    font-family: monospace;
+    margin: 3px;
+    padding: 0px;
+}
+
+header{
+    background-color:olive;
+    color: black;
+    text-align: center;
+    padding: 0px;
+}
+
+main .projects{
+    text-align: justify;
+    padding: 3rem;
+}
+
+section .manual{
+    text-align: justify;
+    padding: 3rem;
+}
+
+section .investigacion{
+    text-align: justify;
+    padding: 3rem;
+}
+
+header .img1{
+    width: 170px;
+    border-radius: 70%;
+    
+    
+}
+
+main .img0{
+    width: 500px;
+   margin: 0px;
+    padding: 0px 400px;
+}
+
+.img2{
+    width: 500px;
+  margin: 0px;
+    padding: 0px 400px;
+    
+}
+
+.img3{
+    width: 500px;
+    margin: 10px;
+    padding: 0px 400px;
+}
+
+.img4{
+    width: 500px;
+    margin: 10px;
+    padding: 0px 400px;
+}
+
+.img5{
+   width: 800px;
+   margin: 10px;
+   padding: 0px 300px;
+}
+
+.img6{
+    width: 800px;
+   margin: 0px;
+    padding: 0px 300px;
+}
+
+header .h1{
+    font-size: 30px;
+    padding-bottom: 15px;
+    
+}
+
+.h2{
+    font-size: 30px;
+    padding: 10rem 0;
+}
+
+main .fecha{
+    font-size: 22px;
+
+    text-align: left;
+    background-color: cadetblue;
+    border-radius: 4rem;
+    padding: 2px;
+    margin: 2rpx;
+    
+}
+
+ .prin{
+    font-size: 19px;
+    padding: 0rem 4rem;
+    text-align: center;
+    
+}
+
+.titulo{
+    font-size: 30px;
+    text-align: center;
+    background-color: olive;
+    border-radius: 1rem;
+    padding: 3px;
+}
+
+.descripcion{
+    font-size: 20px;
+}
